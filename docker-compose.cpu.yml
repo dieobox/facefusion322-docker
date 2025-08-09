@@ -8,6 +8,6 @@ services:
   - .assets:/facefusion/.assets
   - .caches:/facefusion/.caches
   - .jobs:/facefusion/.jobs
-  - D:/facefusion:/tmp
+  - C:/facefusion:/tmp
   ports:
   - 7865:7860
